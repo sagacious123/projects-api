@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Online Bible",
+            "description": "Senior Frontend Developer",
+            "img": "/assets/img/",
+            "stack": ["HTML", "CSS", "JavaScript", "Bootstrap", "Bible API"]
+        },
+        {
+            "id": 2,
+            "title": "PayMoni",
+            "description": "Senior Frontend Developer",
+            "img": "/assets/img/",
+            "stack": ["Reactjs", "Tailwind CSS", "Fixer API"]
+        },
+        {
+            "id": 3,
+            "title": "Github User Finder",
+            "description": "Senior Frontend Developer",
+            "img": "/assets/img/",
+            "stack": ["HTML", "CSS", "JavaScript", "Bootstrap", "Github API"]
+        }
+    ]
+}
